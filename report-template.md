@@ -10,7 +10,7 @@ My third trial with adding some hyperparameters in learning rate, activation fun
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
-I found the most popular point in most of the datas i worked with, which is the datetime feature, and for sure i splitted it and added more features from "day,month,year and hour" which improved the model alittle bit. Also plotted a correlation matrix and a tines series for the bike sharing features to check all them and that helped a lot to understand the data i was working with.
+I found the most popular point in most of the datas i worked with, which is the datetime feature, and for sure i splitted it and added more features from "day,month,year and hour" which improved the model alittle bit. Also plotted a correlation matrix and a times series for the bike sharing features to check all of them and that helped a lot to understand the data I was working with.
 
 ### How much better did your model preform after adding additional features and why do you think that is?
 It helped a lot to improve the score from "1.76349", to "0.45302".
